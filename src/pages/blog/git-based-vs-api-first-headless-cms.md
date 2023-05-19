@@ -7,7 +7,7 @@ tags:
   - "headless"
   - "cms"
   - "contentrain"
-title: "Git-based vs API-first Headless CMS"
+title: "Git-based vs API-first Headless CMS XXXX"
 layout: "$/layouts/post.astro"
 date: "2022-08-24"
 image: "https://imagedelivery.net/yx26LyQGM_miwnGU8RnEaw/431b1ca0-e392-4435-0bfa-54ab15446a00/public"
@@ -17,7 +17,7 @@ category: "ecosystem"
 categories:
   - "ecosystem"
 createdAt: 1661350034307
-updatedAt: 1661350121870
+updatedAt: 1684522372640
 
 ---
 # Git-based Headless CMS vs API-first Headless CMS
