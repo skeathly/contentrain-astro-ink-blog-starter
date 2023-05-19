@@ -5,6 +5,7 @@ ID: "d0665ac8-f20e-4051-bffb-5073db9bd99b"
 title: "About"
 layout: "$/layouts/about.astro"
 createdAt: 1661351746557
+updatedAt: 1684528077045
 
 ---
 Astro-Ink is a crisp, minimal, personal blog theme for Astro, that shows the capability of statically built sites - offering all the goodness and DX of the modern JS ecosystem without actually shipping any JS by default. It’s built by…
@@ -14,3 +15,6 @@ Astro-Ink is a crisp, minimal, personal blog theme for Astro, that shows the cap
 Aftab Alam // [@aftabbuddy](https://twitter.com/aftabbuddy) // [one-aalam](https://github.com/one-aalam)
 
 ![](https://assets.website-files.com/5e51c674258ffe10d286d30a/5e5358878e2493fbea064dd9_peep-59.svg "Aalam")
+
+![https://unsplash.com/photos/gKXKBY-C-Dk](cat)
+
